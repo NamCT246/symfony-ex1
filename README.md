@@ -1,11 +1,11 @@
 # symfony-ex1
 
-* **Install dependencies** *
+* **Install dependencies** 
 ```PHP 
 composer install
 ```
 
-* **Run server** *
+* **Run server** 
 ```PHP
 php -S localhost:8000 -t public
 ```
